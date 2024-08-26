@@ -1,2 +1,1 @@
-# QR-Code
-Design: CodeWithSMR
+# QR-Code-HTML-CSS-JS
