@@ -20,7 +20,7 @@ To use the QR Code Generator, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   https://codewith-smr.github.io/QR-Code/
 
 
 # How to Use
